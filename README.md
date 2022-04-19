@@ -40,7 +40,11 @@ known SQL-statements as "SELECT * FROM databasename". Further tools to visualize
 
 v0.1 Release Testversion 16.06.20
 
-# 5. Credits
+# 5. Upcoming changes
+
+- Integration with the API of elabftw (https://www.elabftw.net/) to generate automatized entries into a labbook. 
+
+# 6. Credits
 
 The programm was developed and written by Christopher Wiesbrock within the Reasearch Training Group 2416 "Multisenses - Multiscales" and 
 was funded by the DFG. 
