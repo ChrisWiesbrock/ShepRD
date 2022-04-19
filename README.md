@@ -4,12 +4,10 @@ Readme RTG2416 Data Transfer Tool
 
 1. Introduction
 2. How to use
-	2.1 SQL Database
-	2.2 Compiling
-	2.3 Installation
 3. Readout
 4. Changelog
-5. Credits
+5. Upcoming changes
+6. Credits
 
 # 1. Introduction
 
