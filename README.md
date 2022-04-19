@@ -5,6 +5,8 @@ Readme RTG2416 Data Transfer Tool
 1. Introduction
 2. How to use
 	2.1 SQL Database
+	2.2 Compiling
+	2.3 Installation
 3. Readout
 4. Changelog
 5. Credits
@@ -20,6 +22,14 @@ a group of researchers without increasing the effort and time of regular data ha
 
 Connect the tool to a SQL-database. Inside of the code, several positions are marked with "xxxxxxx". 
 The variables are named "host", "user"and "password". Insert here the information you got from your IT admin.
+
+2.2 Compiling 
+
+There are only standard packages used from a recent Anaconda distribution. Test the ShepRD.py in your Python installation and compile it to an exe-file for unexperienced users. Follow the documentation here: https://pypi.org/project/py2exe/
+
+2.3 Installation
+
+Put the compiled exe-file on your setup computers, where it can be easily found. The amount of space is capped by the size of the file. 
 
 # 3. Readout
 
